@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PujanThapa
 - 👀 I’m interested in coding and programming.
-- 🌱 I’m currently learning actually am new.
+- 🌱 I’m currently learning machine learning with python.
 - 💞️ I’m looking to collaborate on idk.
 - 📫 How to reach me google me.
 - 👋Funfact :- programming and coding is two different thing.
